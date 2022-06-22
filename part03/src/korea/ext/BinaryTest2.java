@@ -49,5 +49,5 @@ public class BinaryTest2 {
  * 10진 정수값 -> n진법 문자열 Integer.toBinaryString 메소드, toHexString 메소드
  * format 에서 %d는 10진수, %x는 16진수, %o는 8진수, 참고로 2진수는 포맷 형식 없습니다.
  * 
- * 2진수의 비트 연산 : &, |, ^, ~, >> , << 등등 간단히 테스트
+ * 
  */
